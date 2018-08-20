@@ -13,6 +13,7 @@
     }
   },
   "require": {
-    "Illuminate/Support": "~5"
+    "Illuminate/Support": "~5",
+    "caffeinated/flash": "v3.0.1"
   }
 }
