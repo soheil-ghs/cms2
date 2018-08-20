@@ -1,0 +1,18 @@
+{
+  "name": "roocket2/cms2",
+  "description": "Roocket CMS for Roocket.ir",
+  "authors": [
+    {
+      "name": "Soheil Ghs",
+      "email": "tanhasoheil2@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Roocket2\\Cms2\\" : "src/"
+    }
+  },
+  "require": {
+    "Illuminate/Support": "~5"
+  }
+}
